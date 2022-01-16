@@ -20,7 +20,9 @@ pip install questionary
 ## Usage
 This app is used by cloning the repository and running the 'app.py' with:
 'python app.py'
+
 ---
+
 ## Contributors
 '
 Contributors: Saina Azimi
