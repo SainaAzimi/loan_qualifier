@@ -22,25 +22,24 @@ For this project, you will need to utalize python 3.7 of the following packages:
 ## Installation Guide
 Before running the application first install the following:
 ```
-pip install csv  
+- pip install csv  
 
-pip install pathlib 
+- pip install pathlib 
 
-pip install fire  
+- pip install fire  
 
-pip install questionary 
+- pip install questionary 
 ```
 
 ---
 
 ## Usage
 To use the `app.py` application simply clone the repository and run `python app.py`. 
-
+![/Users/sainaazimi/Desktop/Screen Shot 2022-01-16 at 9.55.49 PM.png]
 
 ---
 
 ## Contributors
-<pre>
 
 *Contributors*: Saina Azimi
 
@@ -48,7 +47,6 @@ To use the `app.py` application simply clone the repository and run `python app.
 
 *LinkedIn*: https://www.linkedin.com/in/azimi-saina/ 
 
-</pre>
 ---
 
 ## License
