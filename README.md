@@ -40,6 +40,7 @@ To use the `app.py` application simply clone the repository and run `python app.
 ---
 
 ## Contributors
+<pre>
 
 *Contributors*: Saina Azimi
 
@@ -47,7 +48,7 @@ To use the `app.py` application simply clone the repository and run `python app.
 
 *LinkedIn*: https://www.linkedin.com/in/azimi-saina/ 
 
-
+</pre>
 ---
 
 ## License
