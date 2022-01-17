@@ -18,10 +18,10 @@ For this project, you will need to utalize python 3.7 of the following packages:
 ## Installation Guide
 Before running the application first install the following:
 ```
-pip install csv
-<br/> pip install pathlib
-<br/> pip install fire 
-<br/> pip install questionary 
+pip install csv <br/> 
+pip install pathlib <br/> 
+pip install fire <br/> 
+pip install questionary 
 ```
 
 ---
