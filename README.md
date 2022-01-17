@@ -6,9 +6,9 @@ The application works by taking in a criteria from a 'daily_rate_sheet' from var
 
 ## Technologies
 For this project, you will need to utalize python 3.7 of the following packages:
-```
+
 [import csv](https://github.com/Alexmhack/py_handles_csv) - For importing a csv file that will display the specific loans the user qualifies for.
-```
+
 
 
 ---
