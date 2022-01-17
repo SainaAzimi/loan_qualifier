@@ -35,7 +35,8 @@ Before running the application first install the following:
 
 ## Usage
 To use the `app.py` application simply clone the repository and run `python app.py`. 
-![/Users/sainaazimi/Desktop/Screen Shot 2022-01-16 at 9.55.49 PM.png]
+
+![loan qualifier application](file:///Users/sainaazimi/Desktop/Screen%20Shot%202022-01-16%20at%209.55.49%20PM.png)
 
 ---
 
