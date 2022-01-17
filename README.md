@@ -8,9 +8,9 @@ The application works by taking in a criteria from a 'daily_rate_sheet' from var
 For this project, you will need to utalize python 3.7 of the following packages:
 ```
 *import csv* - For importing a csv file that will display the specific loans the user qualifies for. 
-<br/> *pathlib* - For loading and saving files from and to specific paths.
-<br/> *fire* - For the command line interface, help page, and entrypoint. 
-<br/> *questionary* - For interactive user prompts and dialogs. 
+*pathlib* - For loading and saving files from and to specific paths.
+*fire* - For the command line interface, help page, and entrypoint. 
+*questionary* - For interactive user prompts and dialogs. 
 ```
 
 ---
@@ -18,9 +18,9 @@ For this project, you will need to utalize python 3.7 of the following packages:
 ## Installation Guide
 Before running the application first install the following:
 ```
-pip install csv <br/> 
-pip install pathlib <br/> 
-pip install fire <br/> 
+pip install csv  
+pip install pathlib 
+pip install fire  
 pip install questionary 
 ```
 
@@ -35,8 +35,8 @@ To use the `app.py` application simply clone the repository and run `python app.
 ## Contributors
 ```
 *Contributors*: Saina Azimi
-<br/> *Email*: azimi.sainaa@gmail.com
-<br/> *LinkedIn*: https://www.linkedin.com/in/azimi-saina/ 
+*Email*: azimi.sainaa@gmail.com
+*LinkedIn*: https://www.linkedin.com/in/azimi-saina/ 
 ```
 
 ---
