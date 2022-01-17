@@ -35,7 +35,7 @@ Before running the application first install the following:
 
 ## Usage
 To use the `app.py` application simply clone the repository and run `python app.py`. 
-![screenshot](screenshot.png)
+![loan qualifier application screenshot](/Users/sainaazimi/Desktop/loan_qualifier_app/loan_qualifier_application/screenshot.png)
 
 
 ---
