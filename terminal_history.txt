@@ -1,0 +1,227 @@
+  896  git clone https://github.com/SainaAzimi/loan_qualifier.git
+  897  ls
+  898  git add loan_qualifier_app/
+  899  git init
+  900  git add loan_qualifier_app/
+  901  git status
+  902  git commit -m "Importing all files"
+  903  git push
+  904  git push https://github.com/SainaAzimi/loan_qualifier.git
+  905  git reset
+  906  cd Desktop
+  907  ls
+  908  cd loan_qualifier_app
+  909  ls
+  910  git clone https://github.com/SainaAzimi/loan_qualifier_application.git
+  911  ls
+  912  cd loan_qualifier_application
+  913  ls
+  914  git init
+  915  git add app.py
+  916  git commit -m "Uploading main py file"
+  917  git push
+  918  git push
+  919  git push
+  920  git push
+  921  git push
+  922  cd desktop
+  923  ls
+  924  cd loan_qualifier_app
+  925  ls
+  926  cd loan_qualifier_application
+  927  ls
+  928  python app.py
+  929  python app.py
+  930  cd desktop
+  931  ls
+  932  cd loan_qualifier_app
+  933  ls
+  934  cd loan_qualifier_application
+  935  ls
+  936  git init
+  937  git pull
+  938  git config pull.rebase false
+  939  git pull
+  940  git add app.py
+  941  git commit -m "worked on app.py coding"
+  942  git push
+  943  git push
+  944  git push
+  945  cd desktop
+  946  ls
+  947  cd loan_qualifier_app
+  948  ls
+  949  cd loan_qualifier_application
+  950  ls
+  951  python app.py
+  952  python app.py
+  953  git add qualifying_loans.csv
+  954  git commit -m "generated csv file"
+  955  git push
+  956  git add data/
+  957  git commit -m "necessary data"
+  958  git push
+  959  git add qualifer/
+  960  git add qualifier/
+  961  git commit -m "uploading necessary modules"
+  962  git push
+  963  git status
+  964  git commit -m "updated the project description in README.md"
+  965  git push
+  966  git status
+  967  git add README.md
+  968  git commit -m "updated the description of project in README.md"
+  969  git push
+  970  git add README.md
+  971  git commit -m "added installation guide and technologies to README.md"
+  972  git push
+  973  git add README.md
+  974  git commit -m "added installation guide and technologies to README.md"
+  975  git push
+  976  git add README.md
+  977  git commit -m "adding a horizontal line to organize my README.md"
+  978  git push
+  979  git add README.md
+  980  git commit -m "separating different parts of README.md"
+  981  git push
+  982  git add README.md
+  983  git add README.md
+  984  git commit -m "organized my README.md"
+  985  git push
+  986  git add README.md
+  987  git commit -m " italicized some items in my README.md"
+  988  git push
+  989  git add README.md
+  990  git commit -m "adding bullet points"
+  991  git push
+  992  git add README.md
+  993  git commit -m "italicizing and adding bullets to my README.md"
+  994  git push
+  995  git add README.md
+  996  git commit -m "indented some lines in my README.md"
+  997  git push
+  998  git add README.md
+  999  git commit -m "trying to indent lines"
+ 1000  git push
+ 1001  git add README.md
+ 1002  git commit -m "creating blocks and indents in my README.md"
+ 1003  git push
+ 1004  git add README.md
+ 1005  git commit -m "italicizing some words"
+ 1006  git push
+ 1007  git add README.md
+ 1008  git commit -m "trying to add bullets"
+ 1009  git push
+ 1010  git add README.md
+ 1011  git commit -m "organizing"
+ 1012  git push
+ 1013  git add README.md
+ 1014  git commit -m "organizing the technologies part"
+ 1015  git push
+ 1016  git add README.md
+ 1017  git commit -m "entering each code in a different line"
+ 1018  git push
+ 1019  git add README.md
+ 1020  git commit -m "adding lines to the technologies section"
+ 1021  git push
+ 1022  git add README.md
+ 1023  git add README.md
+ 1024  git commit -m "adding text blocks in technologies part"
+ 1025  git push
+ 1026  git add README.md
+ 1027  git commit -m "added text blocks and new lines to the entire README.md"
+ 1028  git push
+ 1029  git add README.md
+ 1030  git commit -m "trying to fix my italics"
+ 1031  git push
+ 1032  git add README.md
+ 1033  git commit -m "worked on the usage part of the README.md"
+ 1034  git push
+ 1035  git add README.md
+ 1036  git commit -m "fixed the lines in installation guide"
+ 1037  git push
+ 1038  git add README.md
+ 1039  git commit -m "took out the<br/> command"
+ 1040  git push
+ 1041  git add README.md
+ 1042  git commit -m "added italics"
+ 1043  git push
+ 1044  git add README.md
+ 1045  git commit -m "added links"
+ 1046  git push
+ 1047  git add README.md
+ 1048  git commit -m "struggling with the technologies part"
+ 1049  git push
+ 1050  git add README.md
+ 1051  git commit -m "adding bullets"
+ 1052  git push
+ 1053  git add README.md
+ 1054  git commit -m "the link adding isnt working"
+ 1055  git push
+ 1056  git add README.md
+ 1057  git commit 
+ 1058  git commit -m "the link adding isnt working"
+ 1059  git push
+ 1060  git add README.md
+ 1061  git commit -m "the link adding isnt working"
+ 1062  git push
+ 1063  git add README.md
+ 1064  git commit -m "the link adding isnt working"
+ 1065  git push
+ 1066  git add README.md
+ 1067  git commit -m "the link adding isnt working"
+ 1068  git push
+ 1069  git add README.md
+ 1070  git commit -m "the text block is not working"
+ 1071  git push
+ 1072  git add README.md
+ 1073  git commit -m "working on text block"
+ 1074  git push
+ 1075  git add README.md
+ 1076  git commit -m "working on spacing"
+ 1077  git push
+ 1078  git add README.md
+ 1079  git commit -m "working on spacing"
+ 1080  git push
+ 1081  git add README.md
+ 1082  git commit -m "working on the format"
+ 1083  git push
+ 1084  git add README.md
+ 1085  git commit -m "working on the blocking of text"
+ 1086  git push
+ 1087  pwd
+ 1088  ls
+ 1089  python app.py
+ 1090  git add README.md
+ 1091  git commit -m "adding an image"
+ 1092  git push
+ 1093  git add README.md
+ 1094  git commit -m "adding an image"
+ 1095  git commit -m "adding an image"
+ 1096  git push
+ 1097  git add screenshot
+ 1098  git commit -m "took a screen shot of the usage of the application"
+ 1099  git push
+ 1100  git add README.md
+ 1101  git commit -m "adding a photo"
+ 1102  git push
+ 1103  git clone screenshot
+ 1104  git add README.md
+ 1105  git commit -m "adding a photo"
+ 1106  git push
+ 1107  git clone loan_qualifier_application
+ 1108  git add README.md
+ 1109  git commit -m "adding a photo"
+ 1110  git push
+ 1111  git fetch
+ 1112  git status
+ 1113  git add .
+ 1114  git status
+ 1115  git commit -m "adding the photo"
+ 1116  git push
+ 1117  git pull
+ 1118  git status
+ 1119  git push
+ 1120  git add README.md
+ 1121  git commit -m "made final changes"
+ 1122  git push
