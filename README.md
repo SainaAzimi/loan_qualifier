@@ -1,11 +1,10 @@
 # **Loan Qualifier Application**
-This is a python command_line interface application that allows users to see qualifying loans from lenders based on input. The application works by taking the criteria from a 'daily_rate_sheet.csv' from various loan providers, then prompting the user
-The application works by taking in a criteria from a 'daily_rate_sheet' from various loan providers, then prompting the user to input their personal relevant information, and returning a set of available loans with an option to save those loans to a specific path (in this case, a csv file).
+This is a python command_line interface application that allows users to see qualifying loans from lenders based on their inputs. The application works by taking the criteria from the data provided in `daily_rate_sheet.csv` that includes information about various loan providers, then the command_line interface provides a streamlined way to interact with the user and get the user to input their personal relevant information in realtime, and returning a set of available loans with an option to save those loans on a different path which in this case is a csv file called `qualifing_loans.csv`.
 
 ---
 
 ## Technologies
-For this project, you will need to utalize python 3.7 of the following packages:
+This project utalizes python 3.7 with the following packages:
 
 [import csv](https://github.com/Alexmhack/py_handles_csv) - For importing a csv file that will display the specific loans the user qualifies for.
 
