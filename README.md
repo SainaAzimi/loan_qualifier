@@ -17,12 +17,12 @@ For this project, you will need to utalize python 3.7 of the following packages:
 
 ## Installation Guide
 Before running the application first install the following:
-'''
-* pip install csv
-* pip install pathlib
-* pip install fire 
-* pip install questionary 
-'''
+
+    * pip install csv
+    * pip install pathlib
+    * pip install fire 
+    * pip install questionary 
+
 
 ---
 
@@ -42,6 +42,6 @@ This app is used by cloning the repository and running the *app.py* with:
 ---
 
 ## License
-UC Berkeley!
+UC Berkeley
 
 ---
