@@ -7,10 +7,12 @@ The application works by taking in a criteria from a 'daily_rate_sheet' from var
 ## Technologies
 For this project, you will need to utalize python 3.7 of the following packages:
 ```
+
 *import csv* - For importing a csv file that will display the specific loans the user qualifies for. 
 <br/> *pathlib* - For loading and saving files from and to specific paths.
 <br/> *fire* - For the command line interface, help page, and entrypoint. 
 <br/> *questionary* - For interactive user prompts and dialogs. 
+
 ```
 
 ---
